@@ -1,6 +1,6 @@
-## Olá!! Eu sou o Jonathas
-- 🌱 Estudando Java na EJP(Escola de Jovens Programadores) e Ciência da Computação no IFCE(Instituto Federal de Educação, Ciência e Tecnologia do Ceará)
-- 😄 Pronouns: ele/dele
+## Oii!! Eu sou o Jonathas.
+📘 Estudando Java na EJP(Escola de Jovens Programadores) e Ciência da Computação no IFCE(Instituto Federal de Educação, Ciência e Tecnologia do Ceará)  
+😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/jonathasltavares">
