@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/jonathasltavares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathasltavares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasltavares&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jonathasltavares&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=2000"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasltavares&layout=compact&langs_count=7&theme=dark&cache_seconds=2000"/>
   
 <div> 
 <img align="center" height="200" style="border-radius:50px;"src="https://cdn.discordapp.com/attachments/860278451890159647/931724711736528926/meugif.gif?width=700&height=700"/>
