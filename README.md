@@ -8,16 +8,16 @@
 </div><br>
 
 ## <h aling="left"><strong>📘Estudando:</strong></h><br>
-Atualmente estou estudando Java na Escola de Jovens Programadores(EJP)<br>
-Cursando primeiro semestre de Ciencia da Computação no IFCE(Instituto Federal de Educação, Ciência e Tecnologia do Ceará)<br>
-Aqui abaixo algumas linguagens e tecnologias que uso e/ou estudo:<br>
+**Atualmente estou estudando Java na Escola de Jovens Programadores(EJP).<br>
+Cursando primeiro semestre de Ciencia da Computação no IFCE(Instituto Federal de Educação, Ciência e Tecnologia do Ceará).<br>
+Aqui abaixo algumas linguagens e tecnologias que uso e/ou estudo:**
 <div style="display: inline_block"><br>
-    <img align="center" alt="jonGit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="center" alt="jonJava" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="center" alt="jonhtml" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" alt="jonJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="jonunity" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
-    <img align="center" alt="jonvs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
+    <img align="center" alt="jonGit" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" alt="jonJava" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img align="center" alt="jonhtml" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" alt="jonJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="jonvs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
+    <img align="center" alt="jonunity" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" />
     <img align="right" alt="jonGif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/860278451890159647/931724711736528926/meugif.gif?width=676&height=676">                                                                                                                                          
   </div><br><br>
   
