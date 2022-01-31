@@ -27,7 +27,7 @@ Aqui abaixo algumas linguagens e tecnologias que uso e/ou estudo:<br>
   <a href="https://www.linkedin.com/in/jonathas-tavares-64b232205/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br>
 <div> 
-  [Snake animation](https://github.com/jonathasltavares/jonathasltavares/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jonathasltavares/jonathasltavares/blob/output/github-contribution-grid-snake.svg)
  </div>
 
 
