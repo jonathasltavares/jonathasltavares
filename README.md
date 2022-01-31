@@ -1,4 +1,6 @@
 ## Oii!! Eu sou o Jonathas.  
+**Olá! Sou Jonathas, tenho 19 anos e moro em Fortaleza-CE.  
+Estudo Ciência da computação no IFCE(Instituto Federal de Educação, Ciência e Tecnologia do Ceará)**  
 😄 Pronouns: ele/dele.
 
 <div align="center">
