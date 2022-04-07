@@ -10,8 +10,8 @@ Estudo Ciência da computação no IFCE(Instituto Federal de Educação, Ciênci
 </div><br>
 
 ## <h aling="left"><strong>📘Estudando:</strong></h><br>
-**Atualmente estou estudando Java na Escola de Jovens Programadores(EJP).<br>
-Cursando primeiro semestre de Ciencia da Computação no IFCE(Instituto Federal de Educação, Ciência e Tecnologia do Ceará).<br>
+**Cursando primeiro semestre de Ciencia da Computação no IFCE(Instituto Federal de Educação, Ciência e Tecnologia do Ceará).<br>
+Fui aluno da Escola de Jovens Programadores- Java.<br>
 Aqui abaixo algumas linguagens e tecnologias que uso e/ou estudo:**
 <div style="display: inline_block"><br>
     <img align="center" alt="jonGit" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
