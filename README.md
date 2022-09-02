@@ -3,11 +3,6 @@
 Estudo Ciência da computação no IFCE(Instituto Federal de Educação, Ciência e Tecnologia do Ceará)**  
 😄 Pronouns: ele/dele.
 
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathasltavares&show_icons=true&theme=dark&include_all_commits=true&count_private=true cache_seconds: 3000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasltavares&layout=compact&langs_count=7&theme=dark& cache_seconds: 3000"/>
-</div><br>
 
 ## <h aling="left"><strong>📘Estudando:</strong></h><br>
 **•Cursando primeiro segundo de Ciencia da Computação no IFCE(Instituto Federal de Educação, Ciência e Tecnologia do Ceará).<br>
