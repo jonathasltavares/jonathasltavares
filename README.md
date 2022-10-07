@@ -2,7 +2,11 @@
 **Olá! Sou Jonathas, tenho 19 anos e moro em Fortaleza-CE.  
 Estudo Ciência da computação no IFCE(Instituto Federal de Educação, Ciência e Tecnologia do Ceará)**  
 😄 Pronouns: ele/dele.
-
+<div align="center">
+  <a href="https://github.com/jonathasltavares">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathasltavares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathasltavares&layout=compact&langs_count=7&theme=dracula"/>
+</div>  
 
 ## <h aling="left"><strong>📘Estudando:</strong></h><br>
 **•Cursando terceiro semestre de Ciência da Computação no IFCE(Instituto Federal de Educação, Ciência e Tecnologia do Ceará).<br>
