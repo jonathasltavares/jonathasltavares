@@ -1,6 +1,7 @@
 ## Oii!! Eu sou o Jonathas.  
-**Olá! Sou Jonathas, tenho 19 anos e moro em Fortaleza-CE.  
-Estudo Ciência da computação no IFCE(Instituto Federal de Educação, Ciência e Tecnologia do Ceará)**  
+**Olá! Sou Jonathas, tenho 20 anos e moro em Fortaleza-CE.  
+Estudo Ciência da computação no IFCE(Instituto Federal de Educação, Ciência e Tecnologia do Ceará)  
+Atualmente estou como bolsista desenvolvedor Front-end em Dell Lead**  
 😄 Pronouns: ele/dele.
 <div align="center">
   <a href="https://github.com/jonathasltavares">
